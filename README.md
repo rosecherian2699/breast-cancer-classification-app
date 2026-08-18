@@ -29,7 +29,7 @@ This dataset satisfies the assignment's minimum requirements (≥12 features,
 
 ## c. GitHub Repository Link
 
-`<PASTE YOUR GITHUB REPO LINK HERE AFTER YOU PUSH>`
+https://github.com/rosecherian2699/breast-cancer-classification-app
 
 ## d. Models Used
 
