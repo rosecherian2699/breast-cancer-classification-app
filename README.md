@@ -22,7 +22,7 @@ a digitized image of a fine needle aspirate (FNA) of the mass.
   points, symmetry, fractal dimension)
 - **Target variable:** Diagnosis — binary (0 = malignant, 1 = benign)
 - **Class balance:** 212 malignant / 357 benign
-- **Train/test split:** 80% / 20%, stratified by class, `random_state=42`
+- **Train/test split:** 80% / 20%, stratified by class, `random_state=7`
 
 This dataset satisfies the assignment's minimum requirements (≥12 features,
 ≥500 instances) and is a standard binary classification benchmark.
